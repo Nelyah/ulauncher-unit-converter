@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1",
+  "api_version": "1",
+  "name": "Unit Converter",
+  "description": "Conver units using google search",
+  "developer_name": "Roberto Klein",
+  "icon": "images/icon.png",
+  "options": {
+    "query_debounce": 0.6
+  },
+  "preferences": [
+    {
+      "id": "unit_converter_kw",
+      "type": "keyword",
+      "name": "Unit Converter",
+      "description": "Unit Converter",
+      "default_value": "u"
+    }
+  ]
+}
