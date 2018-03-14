@@ -2,8 +2,8 @@
   "manifest_version": "1",
   "api_version": "1",
   "name": "Unit Converter",
-  "description": "Conver units using google search",
-  "developer_name": "Roberto Klein",
+  "description": "Converts units using DuckDuckGo search",
+  "developer_name": "Chloe Dequeker",
   "icon": "images/icon.png",
   "options": {
     "query_debounce": 0.6
